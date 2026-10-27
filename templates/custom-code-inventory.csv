@@ -1,0 +1,2 @@
+object_name,object_type,package,owner,business_process,business_criticality,usage_evidence,usage_confidence,atc_finding_refs,simplification_refs,dependencies,proposed_decision,effort_estimate,effort_confidence,test_strategy,status,next_action,reviewer
+Z_EXAMPLE_REPORT,REPORT,PACKAGE_EXAMPLE,OWNER_TBD,PROCESS_TBD,To assess,No evidence recorded,Low,,,,Assess,To estimate,Low,Regression and owner review,Not started,Confirm owner and usage,
