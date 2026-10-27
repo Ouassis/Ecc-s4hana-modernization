@@ -1,0 +1,2 @@
+item_id,object_name,finding_reference,severity,description,root_cause,proposed_fix,owner,priority,status,transport_or_change_ref,unit_test,regression_test,atc_recheck,evidence_link,risk_acceptance_owner,target_date,notes
+REM-0001,Z_EXAMPLE_REPORT,ATC-REF-TBD,To assess,Replace with reviewed finding,Unknown,To define,OWNER_TBD,Unprioritized,Open,,,,,,,
