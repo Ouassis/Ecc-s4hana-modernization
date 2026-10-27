@@ -1,0 +1,20 @@
+# Local secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials/
+secrets/
+
+# Potentially sensitive or bulky assessment exports (review before adding)
+local-assessment-exports/
+private-evidence/
+
+# Generated files and logs
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
